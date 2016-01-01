@@ -1,5 +1,5 @@
 # USACO---bteams
-This program was written for the January edition of the [United States Computing Olympiad](usaco.org) 2013-2014 competition.  It was written in Java.  As per competition rules, after this program and two others were simultaneously released, I had four hours to complete as much as I could. 
+This program was written for the January edition of the [United States Computing Olympiad](http://usaco.org) 2013-2014 competition.  It was written in Java.  As per competition rules, after this program and two others were simultaneously released, I had four hours to complete as much as I could. 
 
 #Program Description
  The full program description can be found [here](http://usaco.org/index.php?page=viewproblem2&cpid=378).  
